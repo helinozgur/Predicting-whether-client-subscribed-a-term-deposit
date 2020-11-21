@@ -63,4 +63,3 @@ numpy==1.19.2
 matplotlib==3.3.2
 scikit-learn==0.23.2
 pandas==1.1.3
-## ![Image](http://raw.github.com/helinozgur/oxUb0rmknH0Owu8y/images/output1.PNG "Optional title")
