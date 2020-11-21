@@ -63,3 +63,28 @@ numpy==1.19.2
 matplotlib==3.3.2
 scikit-learn==0.23.2
 pandas==1.1.3
+
+## Project Outputs
+In the project, we looked at whether the customer would buy the product with a random data entry. According to the data we entered, our model gave the output ('no') that the customer would not buy the product.We also calculated that our model works with 92.96% accuracy.
+
+![output1](https://user-images.githubusercontent.com/52162324/99885027-2cbdcf80-2c43-11eb-8b68-8ba823dc86d1.PNG)
+
+#### BONUS PARTS
+In bonus episodes,
+-What makes the customers buy? Tell us which feature we should be focusing more on?
+-Finding customers who are more likely to buy the investment product. Determine the segment(s) of customers our client should prioritize.
+we solved the problems above.
+
+We displayed the 10 most important features in the data set.
+
+![output2](https://user-images.githubusercontent.com/52162324/99885251-a30f0180-2c44-11eb-8a16-639d47886249.PNG)
+
+We displayed the features of the customers who had the potential to buy the product.
+
+SUMMARY FOR NUMERİCAL VALUES
+![output3_1_1](https://user-images.githubusercontent.com/52162324/99885354-3c3e1800-2c45-11eb-84d0-71dfcfbe985a.PNG)
+SUMMARY FOR OBJECT VALUES
+![output3_2_1](https://user-images.githubusercontent.com/52162324/99885362-495b0700-2c45-11eb-852c-0464eb4b58e3.PNG)
+
+
+
